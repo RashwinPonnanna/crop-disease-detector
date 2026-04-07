@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/
+.env
+tomato_disease_model.h5
